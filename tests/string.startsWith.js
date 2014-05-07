@@ -5,6 +5,6 @@ describe('Polyfill : string.startsWith', function () {
 
     it('should be correctly defined', function () {
         expect(String.prototype.startsWith).toBeDefined();
-        expect('a'.startsWith()).toBe('a');
+        expect('a'.startsWith('a')).toBeTruthy();
     });
 });
