@@ -1,4 +1,4 @@
-## string.startsWith  [![Build Status](https://travis-ci.org/MathRobin/ngTools.notify.png?branch=master)](https://travis-ci.org/MathRobin/ngTools.notify)
+## string.startsWith  [![Build Status](https://travis-ci.org/MathRobin/string.startsWith.png?branch=master)](https://travis-ci.org/MathRobin/string.startsWith)
 
 Polyfills for string.startsWith, available on bower.
 
