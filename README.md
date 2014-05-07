@@ -1,3 +1,5 @@
+## string.startsWith  [![Build Status](https://travis-ci.org/MathRobin/ngTools.notify.png?branch=master)](https://travis-ci.org/MathRobin/ngTools.notify)
+
 Polyfills for string.startsWith, available on bower.
 
 This method has been added to the ECMAScript 6 specification and may not be available in all JavaScript implementations yet. Have a look there for compat table : https://kangax.github.io/es5-compat-table/es6/#String.prototype.startsWith
