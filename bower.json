@@ -1,6 +1,7 @@
 {
     "name"            : "string.startsWith",
     "version"         : "1.0.0",
+    "main"            : "src/string.startsWith.js",
     "dependencies"    : {
     },
     "devDependencies" : {
